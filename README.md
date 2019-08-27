@@ -1,2 +1,2 @@
 # Reading-List
-📚📖💡👨‍💻  Things I like interesting to read.
+📚📖💡👨‍💻  A shout out to books i read and like.
