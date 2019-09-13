@@ -33,3 +33,11 @@ I am going to split the book section into 4 parts
   #### Learning Tools
   - [ ] Practical Vim (On 1st Chapter)📝🧠🎆
 ### 4. Non Related To Technology
+
+# Courses (Books and MOOCS)
+
+### 1. CSS
+ - [ ] [Learn Design System](https://designcode.io/design-system-in-figma)
+ - [ ] [Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+### 2. JavaScript
+### 3. Angular
