@@ -2,11 +2,11 @@
 📚📖💡👨‍💻  A shout out to books i read and like.
 
 ### Legends
-### 📝 - Currently Reading  
-### 🧠 - Learn New Skill  
-### 🎆 - Must Read  
-### 🎇 - Nice to Read  
-### ✨ - Can be Read  
+##### 📝 - Currently Reading  
+##### 🧠 - Learn New Skill  
+##### 🎆 - Must Read  
+##### 🎇 - Nice to Read  
+##### ✨ - Can be Read  
 # Books 
 
 I am going to split the book section into 4 parts
