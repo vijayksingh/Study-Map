@@ -17,6 +17,9 @@ I am going to split the book section into 4 parts
   - [ ] JavaScript Allonge
   - [ ] Functional Programming in Javascript by Luis Atencio
   - [ ] Mostly Adequate Guide
+
+#### Functional Programming in Elm
+  - [ ] [A very gentle introduction to ELM](https://madewithlove.be/using-elm-with-react-a-nice-app-on-elm-street/#what-is-elm)
     
   #### Reactive Programming
   > I couldn't find any books for RXJS, how i am planning to learn this is via going through series of blogs, on various sites and will jot down what i have learned here.
