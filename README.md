@@ -10,7 +10,7 @@
 # Books 
 
 I am going to split the book section into 4 parts
-### 1. Books related to Programming Paradigms 
+### 1. Books / Articles related to Programming Paradigms 
 #### Functional Programming in JS
   - [ ] Composing Software by Eric Elliot (On 4th Chapter)📝🎆🧠
   - [ ] Functional Light Javascript by Kyle Simpson
@@ -28,11 +28,15 @@ I am going to split the book section into 4 parts
   - [ ] Angular in Depth RxJS Blogs
      
   #### Object Oriented Programming
+  
+  #### Computer Science Concepts (Algorithms / DS / Important Concepts)
+  - [ ] [Introduction To Bloom Filters](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
+
      
 
-### 2. Books related to Architecture and Design of the Applications 
+### 2. Books / Articles related to Architecture and Design of the Applications 
   - [ ] Clean Code 2
-### 3. Books related to Certain Languages and Tools.
+### 3. Books / Articles related to Certain Languages and Tools.
   #### Learning Tools
   - [ ] Practical Vim (On 1st Chapter)📝🧠🎆
 ### 4. Non Related To Technology
